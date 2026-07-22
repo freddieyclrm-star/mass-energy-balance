@@ -15,8 +15,17 @@ Python program develpoed as part of my learning in Chemical Engineering
 ## Language
 - Python 3
 
+## Project Structure
+```main.py #Main Python Program```
+```README.md # Project documentation```
+
+## Installation
+```git clone https://github.com/freddieyclrm-star/mass-energy-balance.git```
+```cd mass-energy-balance```
+```python main.py```
+
 ## Example Application
-- Chemical process application
+- Chemical process calculation
 
 ## Further Improvements
 - Add GUI
@@ -25,6 +34,9 @@ Python program develpoed as part of my learning in Chemical Engineering
 - Implement automated testing
 - Add thermodynamic property calculations
 - Improve visualisation of results
+
+## License
+MIT License
 
   Author
   Freddie C. L. Yiu
